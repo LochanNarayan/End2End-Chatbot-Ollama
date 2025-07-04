@@ -3,4 +3,5 @@ streamlit
 langchain
 langchain-openai
 langchain-ollama
-
+langchain_core
+langchain_community
